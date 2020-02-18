@@ -1,2 +1,3 @@
 Test 1
-Just a test
+This is just a test
+Of the Merge
